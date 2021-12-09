@@ -1,7 +1,7 @@
 # Learning Git and Github
 
 I am following this tutorial series by
-[Goran Kortjie](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter1-23cp)
+[Goran Kortjie](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp)
 on dev.to community. It is a very good and complete tutorial on the essentials of
 [Git](https://git-scm.com) and [Github](https://github.com).
 
