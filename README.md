@@ -8,14 +8,14 @@ on dev.to community. It is a very good and complete tutorial on the essentials o
 If you want more details about the commands and the content on this notes go to the
 official series on dev community and support Goran.
 
-Along the way I . I will let the links here
-as well.
-
 While I was following the tutorial i faced some local challenges with git and end
-up learning some other commands, reading other articles and tutorials, aside the
+up learning some other commands, reading other articles and tutorials aside the
 specific git series that i mentioned earlier. So, i want to add them here too and
-expend even more this notes.
+expand even more this notes.
 
+Another thing to mention is that these notes are based on my learning and are used
+as a quick reference, so it probably has many typos or even misundertanding of the
+concepts.
 
 git version used while writing this notes:
 ```
